@@ -28,14 +28,5 @@ temp/
 *~
 .DS_Store
 
-# Các tệp tạm do kịch bản Auto-Sync-System tạo ra
-cookie_main.txt
-cookie_db.txt
-temp_drop_tables.sql
-deploy_runtime.json
-
-# Các tệp chứa thông tin đăng nhập - KHÔNG đưa lên Git!
-all.php
-merged.php
-file.php
-sql.php
+# Large local archives
+cmder.zip
